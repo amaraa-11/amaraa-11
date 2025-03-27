@@ -30,7 +30,7 @@ I'm fullstack developer from Mongolia.
 </p>
 
 ### 🌐 Connect with Me
-![Instagram](https://www.instagram.com/amaraa_pnc/#)
+[!Instagram](https://www.instagram.com/amaraa_pnc/#)
 https://www.facebook.com/
 
 
