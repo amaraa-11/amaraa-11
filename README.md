@@ -3,7 +3,7 @@
 ## 🚀 Frontend Developer | Web Enthusiast | Tech Innovator
 
 ### 🌟 About Me
-I'm a passionate frontend developer from India, specializing in creating dynamic and responsive web applications. With a strong focus on modern web technologies, I love transforming creative ideas into elegant, efficient digital solutions.
+I'm fullstack developer from Mongolia.
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
