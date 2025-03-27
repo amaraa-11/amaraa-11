@@ -30,9 +30,9 @@ I'm fullstack developer from Mongolia.
 </p>
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-website.com)
+https://www.instagram.com/amaraa_pnc/#
+https://www.facebook.com/
+
 
 ### 💡 Quick Facts
 - 🌱 Currently learning advanced React and system design
