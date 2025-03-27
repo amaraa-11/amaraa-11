@@ -37,7 +37,7 @@ I'm fullstack developer from Mongolia.
 ### 💡 Quick Facts
 - 🌱 Currently learning advanced React and system design
 - 💬 Ask me about frontend development, React, and web technologies
-- 📫 How to reach me: [your-email@example.com]
+- 📫 How to reach me: [amaraamygmarjaw@gmail.com]
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amaraa-11&color=blueviolet&style=flat)
 
