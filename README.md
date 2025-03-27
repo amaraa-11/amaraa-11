@@ -1,6 +1,6 @@
 # Hi there! I'm Amaraa 👋
 
-## 🚀 Frontend Developer | Web Enthusiast | Tech Innovator
+## 🚀 Developer 
 
 ### 🌟 About Me
 I'm fullstack developer from Mongolia.
