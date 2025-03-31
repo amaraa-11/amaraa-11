@@ -42,4 +42,4 @@ I'm a fullstack developer from Mongolia.
 
 ---
 
-⭐️ From [Amaraa](https://github.com/amaraa-11)
+
