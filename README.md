@@ -3,7 +3,7 @@
 ## 🚀 Developer 
 
 ### 🌟 About Me
-I'm fullstack developer from Mongolia.
+I'm a fullstack developer from Mongolia.
 
 ### 🛠️ Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,14 +30,13 @@ I'm fullstack developer from Mongolia.
 </p>
 
 ### 🌐 Connect with Me
-[!Instagram](https://www.instagram.com/amaraa_pnc/#)
-https://www.facebook.com/
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amaraa_pnc/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)
 
 ### 💡 Quick Facts
 - 🌱 Currently learning advanced React and system design
 - 💬 Ask me about frontend development, React, and web technologies
-- 📫 How to reach me: [amaraamygmarjaw@gmail.com]
+- 📫 How to reach me: [amaraamygmarjaw@gmail.com](mailto:amaraamygmarjaw@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amaraa-11&color=blueviolet&style=flat)
 
