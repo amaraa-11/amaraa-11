@@ -34,7 +34,7 @@ I'm a fullstack developer from Mongolia.
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com](https://www.facebook.com/profile.php?id=100028159704098))
 
 ### 💡
-📫  [![gmail](amaraamygmarjaw@gmail.com)(mailto:amaraamygmarjaw@gmail.com)
+📫  (amaraamygmarjaw@gmail.com)(mailto:amaraamygmarjaw@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amaraa-11&color=blueviolet&style=flat)
 
